@@ -1,5 +1,3 @@
 *.pem
-*.pem
 .env
-*.key
 *.key
